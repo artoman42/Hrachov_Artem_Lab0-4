@@ -1,0 +1,16 @@
+D:\KPI\ОП 2\Lab4\Lab4\bin\Debug\net5.0\Lab4.exe
+D:\KPI\ОП 2\Lab4\Lab4\bin\Debug\net5.0\Lab4.deps.json
+D:\KPI\ОП 2\Lab4\Lab4\bin\Debug\net5.0\Lab4.runtimeconfig.json
+D:\KPI\ОП 2\Lab4\Lab4\bin\Debug\net5.0\Lab4.runtimeconfig.dev.json
+D:\KPI\ОП 2\Lab4\Lab4\bin\Debug\net5.0\Lab4.dll
+D:\KPI\ОП 2\Lab4\Lab4\bin\Debug\net5.0\ref\Lab4.dll
+D:\KPI\ОП 2\Lab4\Lab4\bin\Debug\net5.0\Lab4.pdb
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.csproj.AssemblyReference.cache
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.AssemblyInfoInputs.cache
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.AssemblyInfo.cs
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.csproj.CoreCompileInputs.cache
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.dll
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\ref\Lab4.dll
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.pdb
+D:\KPI\ОП 2\Lab4\Lab4\obj\Debug\net5.0\Lab4.genruntimeconfig.cache
